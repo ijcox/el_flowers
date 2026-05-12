@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mums</title>
+
+<style>
+.mums-wrapper{
+font-family: Arial, Helvetica, sans-serif;
+line-height:1.7;
+padding:40px 22px;
+max-width:1100px;
+margin:auto;
+color:#222;
+background:#faf9f6;
+}
+
+.mums-wrapper h1{
+font-size:2.2rem;
+margin-bottom:10px;
+color:#f9a825;
+text-align:center;
+}
+
+.mums-wrapper h2{
+font-size:1.45rem;
+margin-top:34px;
+margin-bottom:12px;
+padding-bottom:6px;
+border-bottom:2px solid #ffe9a8;
+color:#b8860b;
+}
+
+.mums-wrapper h3{
+font-size:1.1rem;
+margin-top:18px;
+margin-bottom:8px;
+color:#c9a227;
+}
+
+.mums-wrapper p{margin:10px 0;}
+
+.mums-wrapper ul{
+margin:10px 0 10px 24px;
+padding:0;
+}
+
+.mums-wrapper li{margin:6px 0;}
+
+.mums-wrapper a{
+color:#b8860b;
+text-decoration:none;
+font-weight:bold;
+}
+
+.mums-wrapper a:hover{text-decoration:underline;}
+
+.species-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:12px;
+margin-top:12px;
+}
+
+.card{
+background:#fff;
+border:1px solid #ddd;
+border-radius:8px;
+padding:12px;
+}
+
+.return-link{
+margin-top:28px;
+text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<div class="mums-wrapper">
+
+<h1>Mums (Chrysanthemum)</h1>
+
+<p>
+Mums, or chrysanthemums, are popular autumn-blooming flowers known for their dense, colorful flower heads and long-lasting blooms.
+</p>
+
+<h2>Description</h2>
+
+<p>
+Chrysanthemums produce layered blooms in many forms including daisy-like, pompon, spider, and decorative shapes.
+They appear in a wide range of colors such as yellow, white, red, purple, and bronze.
+</p>
+
+<p>
+They are widely used in gardens, floral arrangements, and seasonal displays.
+</p>
+
+<h2>Taxonomy</h2>
+
+<p>
+Mums belong to the genus <strong>Chrysanthemum</strong> in the family <strong>Asteraceae</strong>.
+They are native to Asia and northeastern Europe.
+</p>
+
+<h3>Species</h3>
+
+<div class="species-grid">
+
+<div class="card">
+<a href="/o/page?o=word&w=Chrysanthemum%20Morifolium">Chrysanthemum Morifolium</a> – Florist’s Chrysanthemum
+</div>
+
+<div class="card">
+<a href="/o/page?o=word&w=Chrysanthemum%20Indicum">Chrysanthemum Indicum</a> – Wild Chrysanthemum
+</div>
+
+<div class="card">
+<a href="/o/page?o=word&w=Chrysanthemum%20Zawadskii">Chrysanthemum Zawadskii</a> – Arctic Chrysanthemum
+</div>
+
+</div>
+
+<h3>Etymology</h3>
+
+<p>
+The name <strong>Chrysanthemum</strong> comes from Greek meaning “gold flower.”
+</p>
+
+<h2>Ecology</h2>
+
+<p>
+Mums provide late-season nectar for pollinators and thrive in temperate climates with cool autumn temperatures.
+</p>
+
+<h3>Diseases and pests</h3>
+
+<ul>
+<li>Aphids on buds</li>
+<li>Leaf miners in foliage</li>
+<li>Powdery mildew in humid conditions</li>
+<li>Spider mites in dry weather</li>
+</ul>
+
+<h2>Cultivation</h2>
+
+<p>
+Chrysanthemums are widely cultivated for ornamental and seasonal autumn displays.
+</p>
+
+<ul>
+<li><strong>Light:</strong> Full sun</li>
+<li><strong>Soil:</strong> Well-drained, fertile soil</li>
+<li><strong>Water:</strong> Moderate</li>
+<li><strong>Planting:</strong> Cuttings or divisions</li>
+<li><strong>Maintenance:</strong> Pinch back for bushier growth</li>
+</ul>
+
+<h2>Mums in culture</h2>
+
+<p>
+Chrysanthemums symbolize longevity, joy, and remembrance and are especially important in Asian and European traditions.
+</p>
+
+<div class="return-link">
+<a href="/o/page?o=word&w=Flowers">Flowers</a>
+</div>
+
+</div>
+
+</body>
+</html>
