@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>New York Aster</title>
+
+<style>
+.newyork-aster-wrapper{
+font-family: Arial, Helvetica, sans-serif;
+line-height:1.7;
+padding:40px 22px;
+max-width:1100px;
+margin:auto;
+color:#222;
+background:#faf9f6;
+}
+
+.newyork-aster-wrapper h1{
+font-size:2.2rem;
+margin-bottom:10px;
+color:#3a86ff;
+text-align:center;
+}
+
+.newyork-aster-wrapper h2{
+font-size:1.45rem;
+margin-top:34px;
+margin-bottom:12px;
+padding-bottom:6px;
+border-bottom:2px solid #d6e8ff;
+color:#1d4ed8;
+}
+
+.newyork-aster-wrapper h3{
+font-size:1.1rem;
+margin-top:18px;
+margin-bottom:8px;
+color:#2563eb;
+}
+
+.newyork-aster-wrapper p{margin:10px 0;}
+
+.newyork-aster-wrapper ul{
+margin:10px 0 10px 24px;
+padding:0;
+}
+
+.newyork-aster-wrapper li{margin:6px 0;}
+
+.newyork-aster-wrapper a{
+color:#1d4ed8;
+text-decoration:none;
+font-weight:bold;
+}
+
+.newyork-aster-wrapper a:hover{text-decoration:underline;}
+
+.return-link{
+margin-top:28px;
+text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<div class="newyork-aster-wrapper">
+
+<h1>Symphyotrichum novi-belgii – New York Aster</h1>
+
+<p>
+<a href="/o/page?o=word&w=Aster">Aster</a> novi-belgii is a perennial wildflower known for its vibrant late-season blooms in shades of purple, pink, and blue.
+</p>
+
+<h2>Description</h2>
+<p>
+Produces dense clusters of small daisy-like flowers on upright stems. Often forms bushy clumps in gardens and wild habitats.
+</p>
+
+<h2>Etymology</h2>
+<p>
+“Novae-belgii” refers to “New Belgium,” the historical name for the New York region during Dutch colonization.
+</p>
+
+<h2>Taxonomy</h2>
+<p>
+Family: Asteraceae<br>
+Genus: Symphyotrichum<br>
+Species: S. novi-belgii
+</p>
+
+<h2>Distribution and Habitat</h2>
+<p>
+Native to eastern North America, especially coastal and meadow regions with moist soils.
+</p>
+
+<h2>Ecology</h2>
+<p>
+Provides late-season nectar and pollen for bees and migrating butterflies.
+</p>
+
+<h2>Cultivation</h2>
+<ul>
+<li>Full sun</li>
+<li>Moist, well-drained soil</li>
+<li>Regular division helps maintain vigor</li>
+</ul>
+
+<h3>Cultivars</h3>
+<ul>
+<li>‘Marie Ballard’</li>
+<li>‘Professor Anton Kippenberg’</li>
+</ul>
+
+<h2>Symbolism</h2>
+<p>
+Represents patience, memory, and the arrival of autumn.
+</p>
+
+<div class="return-link">
+<a href="/o/page?o=word&w=Aster">Aster</a>
+</div>
+
+</div>
+
+</body>
+</html>
