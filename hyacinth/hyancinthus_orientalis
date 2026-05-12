@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hyacinthus orientalis</title>
+
+<style>
+.hyacinthus-orientalis-wrapper{
+font-family: Arial, Helvetica, sans-serif;
+line-height:1.7;
+padding:40px 22px;
+max-width:1100px;
+margin:auto;
+color:#222;
+background:#f7f5ff;
+}
+
+.hyacinthus-orientalis-wrapper h1{
+font-size:2.2rem;
+margin-bottom:10px;
+color:#6a1b9a;
+text-align:center;
+}
+
+.hyacinthus-orientalis-wrapper h2{
+font-size:1.45rem;
+margin-top:34px;
+margin-bottom:12px;
+padding-bottom:6px;
+border-bottom:2px solid #e2d6ff;
+color:#4a148c;
+}
+
+.hyacinthus-orientalis-wrapper h3{
+font-size:1.1rem;
+margin-top:18px;
+margin-bottom:8px;
+color:#6a1b9a;
+}
+
+.hyacinthus-orientalis-wrapper p{margin:10px 0;}
+
+.hyacinthus-orientalis-wrapper ul{
+margin:10px 0 10px 24px;
+padding:0;
+}
+
+.hyacinthus-orientalis-wrapper li{margin:6px 0;}
+
+.hyacinthus-orientalis-wrapper a{
+color:#4a148c;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hyacinthus-orientalis-wrapper a:hover{text-decoration:underline;}
+
+.return-link{
+margin-top:28px;
+text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<div class="hyacinthus-orientalis-wrapper">
+
+<h1>Hyacinthus orientalis – Common Hyacinth</h1>
+
+<p>
+<a href="/o/page?o=word&w=Hyacinth">Hyacinth</a> orientalis, commonly known as the Common Hyacinth, is a fragrant spring-flowering bulb widely cultivated in gardens for its dense spikes of colorful blooms.
+</p>
+
+<h2>Description</h2>
+<p>
+This species produces compact flower spikes made up of many star-shaped blossoms in shades of blue, purple, pink, white, and red, with a strong sweet fragrance.
+</p>
+
+<h2>Etymology</h2>
+<p>
+“Hyacinthus” comes from Greek mythology, named after Hyacinthus, a youth associated with beauty and tragic transformation.
+</p>
+
+<h2>Taxonomy</h2>
+<p>
+Family: Asparagaceae<br>
+Genus: Hyacinthus<br>
+Species: H. orientalis
+</p>
+
+<h2>Distribution and Habitat</h2>
+<p>
+Native to the eastern Mediterranean region and parts of the Middle East, it grows naturally in rocky, well-drained soils.
+</p>
+
+<h2>Ecology</h2>
+<p>
+Attracts early-season pollinators such as bees and is widely cultivated as an ornamental plant worldwide.
+</p>
+
+<h2>Cultivation</h2>
+<ul>
+<li>Full sun to partial shade</li>
+<li>Well-drained soil</li>
+<li>Planted from bulbs in autumn</li>
+<li>Requires a cold period to flower well</li>
+</ul>
+
+<h3>Cultivars</h3>
+<ul>
+<li>‘Delft Blue’ – classic blue flowers</li>
+<li>‘Carnegie’ – pure white blooms</li>
+<li>‘Jan Bos’ – deep pink variety</li>
+</ul>
+
+<h2>Symbolism</h2>
+<p>
+Represents rebirth, constancy, and sincerity, often associated with spring renewal.
+</p>
+
+<div class="return-link">
+<a href="/o/page?o=word&w=Hyacinth">Hyacinth</a>
+</div>
+
+</div>
+
+</body>
+</html>
